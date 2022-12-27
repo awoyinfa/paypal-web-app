@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>web-app</finalName>
+		<finalName>paypal-webapp</finalName>
 		
 		<plugins>
 			<plugin>
